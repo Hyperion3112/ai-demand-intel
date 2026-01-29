@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw data (do not commit)
+data/raw/
+
+# Tableau extracts (can be large)
+*.hyper
+*.tde
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
