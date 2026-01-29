@@ -1,0 +1,14 @@
+tool,company,category,trend_keyword,max_date_in_data,demand_index_12m,current_4w_avg,growth_last30_vs_prev30_pct,momentum_4w_vs_12m_pct,volatility_std,rank_overall_by_demand_12m,rank_in_category_by_demand_12m,demand_score_0_100
+ChatGPT,OpenAI,Coding,ChatGPT,2026-01-25,75.72,70.0,-5.41,-7.55,12.89,1,1,83.63
+Cursor,Coding,Coding,Cursor AI,2026-01-25,67.94,58.8,-21.6,-13.46,15.65,2,2,69.98
+Claude,Anthropic,Coding,Claude AI,2026-01-25,65.72,90.2,16.01,37.26,18.59,4,3,87.6
+GitHub Copilot,GitHub,Coding,GitHub Copilot,2026-01-25,62.4,72.0,-20.66,15.39,19.71,5,4,69.15
+Gemini,Google,Coding,Google Gemini,2026-01-25,43.58,65.4,-13.38,50.05,25.36,9,5,58.54
+Adobe Firefly,Adobe,Image,Adobe Firefly,2026-01-25,66.06,60.0,-30.84,-9.17,13.2,3,1,65.74
+Stable Diffusion,Stability AI,Image,Stable Diffusion,2026-01-25,61.02,66.4,-22.34,8.82,15.43,6,2,66.32
+DALL·E,OpenAI,Image,DALL-E,2026-01-25,33.06,28.6,-25.23,-13.48,14.37,10,3,35.39
+Midjourney,Midjourney,Image,Midjourney,2026-01-25,17.98,11.8,-15.71,-34.38,15.43,12,4,21.09
+Kling,Kuaishou,Video,Kling AI,2026-01-25,54.4,80.6,18.97,48.17,14.5,7,1,79.32
+Runway,Runway,Video,Runway AI,2026-01-25,44.11,52.0,-38.1,17.88,18.14,8,2,46.23
+Sora,OpenAI,Video,OpenAI Sora,2026-01-25,24.08,29.6,-56.63,22.95,27.95,11,3,21.66
+Veo,Google,Video,Google Veo,2026-01-25,13.04,6.0,-22.58,-53.98,18.0,13,4,11.26

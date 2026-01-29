@@ -1,0 +1,14 @@
+tool,company,category,trend_keyword
+ChatGPT,OpenAI,Coding,ChatGPT
+GitHub Copilot,GitHub,Coding,GitHub Copilot
+Gemini,Google,Coding,Google Gemini
+Claude,Anthropic,Coding,Claude AI
+Cursor,Coding,Coding,Cursor AI
+Midjourney,Midjourney,Image,Midjourney
+DALL·E,OpenAI,Image,DALL-E
+Adobe Firefly,Adobe,Image,Adobe Firefly
+Stable Diffusion,Stability AI,Image,Stable Diffusion
+Runway,Runway,Video,Runway AI
+Sora,OpenAI,Video,OpenAI Sora
+Veo,Google,Video,Google Veo
+Kling,Kuaishou,Video,Kling AI

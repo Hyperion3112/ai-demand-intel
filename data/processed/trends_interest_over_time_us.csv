@@ -1,0 +1,690 @@
+date,keyword,interest_index,geo,timeframe
+2025-01-26,ChatGPT,56,US,today 12-m
+2025-02-02,ChatGPT,58,US,today 12-m
+2025-02-09,ChatGPT,56,US,today 12-m
+2025-02-16,ChatGPT,59,US,today 12-m
+2025-02-23,ChatGPT,67,US,today 12-m
+2025-03-02,ChatGPT,59,US,today 12-m
+2025-03-09,ChatGPT,56,US,today 12-m
+2025-03-16,ChatGPT,58,US,today 12-m
+2025-03-23,ChatGPT,60,US,today 12-m
+2025-03-30,ChatGPT,67,US,today 12-m
+2025-04-06,ChatGPT,71,US,today 12-m
+2025-04-13,ChatGPT,70,US,today 12-m
+2025-04-20,ChatGPT,73,US,today 12-m
+2025-04-27,ChatGPT,77,US,today 12-m
+2025-05-04,ChatGPT,77,US,today 12-m
+2025-05-11,ChatGPT,74,US,today 12-m
+2025-05-18,ChatGPT,72,US,today 12-m
+2025-05-25,ChatGPT,69,US,today 12-m
+2025-06-01,ChatGPT,70,US,today 12-m
+2025-06-08,ChatGPT,72,US,today 12-m
+2025-06-15,ChatGPT,70,US,today 12-m
+2025-06-22,ChatGPT,69,US,today 12-m
+2025-06-29,ChatGPT,63,US,today 12-m
+2025-07-06,ChatGPT,71,US,today 12-m
+2025-07-13,ChatGPT,80,US,today 12-m
+2025-07-20,ChatGPT,85,US,today 12-m
+2025-07-27,ChatGPT,88,US,today 12-m
+2025-08-03,ChatGPT,82,US,today 12-m
+2025-08-10,ChatGPT,80,US,today 12-m
+2025-08-17,ChatGPT,84,US,today 12-m
+2025-08-24,ChatGPT,91,US,today 12-m
+2025-08-31,ChatGPT,87,US,today 12-m
+2025-09-07,ChatGPT,95,US,today 12-m
+2025-09-14,ChatGPT,100,US,today 12-m
+2025-09-21,ChatGPT,95,US,today 12-m
+2025-09-28,ChatGPT,86,US,today 12-m
+2025-10-05,ChatGPT,91,US,today 12-m
+2025-10-12,ChatGPT,91,US,today 12-m
+2025-10-19,ChatGPT,97,US,today 12-m
+2025-10-26,ChatGPT,96,US,today 12-m
+2025-11-02,ChatGPT,97,US,today 12-m
+2025-11-09,ChatGPT,92,US,today 12-m
+2025-11-16,ChatGPT,90,US,today 12-m
+2025-11-23,ChatGPT,66,US,today 12-m
+2025-11-30,ChatGPT,84,US,today 12-m
+2025-12-07,ChatGPT,83,US,today 12-m
+2025-12-14,ChatGPT,73,US,today 12-m
+2025-12-21,ChatGPT,56,US,today 12-m
+2025-12-28,ChatGPT,57,US,today 12-m
+2026-01-04,ChatGPT,73,US,today 12-m
+2026-01-11,ChatGPT,76,US,today 12-m
+2026-01-18,ChatGPT,69,US,today 12-m
+2026-01-25,ChatGPT,75,US,today 12-m
+2025-01-26,GitHub Copilot,35,US,today 12-m
+2025-02-02,GitHub Copilot,34,US,today 12-m
+2025-02-09,GitHub Copilot,42,US,today 12-m
+2025-02-16,GitHub Copilot,41,US,today 12-m
+2025-02-23,GitHub Copilot,48,US,today 12-m
+2025-03-02,GitHub Copilot,41,US,today 12-m
+2025-03-09,GitHub Copilot,41,US,today 12-m
+2025-03-16,GitHub Copilot,40,US,today 12-m
+2025-03-23,GitHub Copilot,40,US,today 12-m
+2025-03-30,GitHub Copilot,40,US,today 12-m
+2025-04-06,GitHub Copilot,45,US,today 12-m
+2025-04-13,GitHub Copilot,42,US,today 12-m
+2025-04-20,GitHub Copilot,40,US,today 12-m
+2025-04-27,GitHub Copilot,37,US,today 12-m
+2025-05-04,GitHub Copilot,42,US,today 12-m
+2025-05-11,GitHub Copilot,43,US,today 12-m
+2025-05-18,GitHub Copilot,63,US,today 12-m
+2025-05-25,GitHub Copilot,52,US,today 12-m
+2025-06-01,GitHub Copilot,59,US,today 12-m
+2025-06-08,GitHub Copilot,60,US,today 12-m
+2025-06-15,GitHub Copilot,63,US,today 12-m
+2025-06-22,GitHub Copilot,66,US,today 12-m
+2025-06-29,GitHub Copilot,56,US,today 12-m
+2025-07-06,GitHub Copilot,62,US,today 12-m
+2025-07-13,GitHub Copilot,72,US,today 12-m
+2025-07-20,GitHub Copilot,87,US,today 12-m
+2025-07-27,GitHub Copilot,90,US,today 12-m
+2025-08-03,GitHub Copilot,92,US,today 12-m
+2025-08-10,GitHub Copilot,78,US,today 12-m
+2025-08-17,GitHub Copilot,57,US,today 12-m
+2025-08-24,GitHub Copilot,64,US,today 12-m
+2025-08-31,GitHub Copilot,53,US,today 12-m
+2025-09-07,GitHub Copilot,49,US,today 12-m
+2025-09-14,GitHub Copilot,63,US,today 12-m
+2025-09-21,GitHub Copilot,66,US,today 12-m
+2025-09-28,GitHub Copilot,62,US,today 12-m
+2025-10-05,GitHub Copilot,59,US,today 12-m
+2025-10-12,GitHub Copilot,57,US,today 12-m
+2025-10-19,GitHub Copilot,55,US,today 12-m
+2025-10-26,GitHub Copilot,76,US,today 12-m
+2025-11-02,GitHub Copilot,98,US,today 12-m
+2025-11-09,GitHub Copilot,97,US,today 12-m
+2025-11-16,GitHub Copilot,96,US,today 12-m
+2025-11-23,GitHub Copilot,81,US,today 12-m
+2025-11-30,GitHub Copilot,94,US,today 12-m
+2025-12-07,GitHub Copilot,100,US,today 12-m
+2025-12-14,GitHub Copilot,92,US,today 12-m
+2025-12-21,GitHub Copilot,77,US,today 12-m
+2025-12-28,GitHub Copilot,77,US,today 12-m
+2026-01-04,GitHub Copilot,96,US,today 12-m
+2026-01-11,GitHub Copilot,77,US,today 12-m
+2026-01-18,GitHub Copilot,52,US,today 12-m
+2026-01-25,GitHub Copilot,58,US,today 12-m
+2025-01-26,Google Gemini,16,US,today 12-m
+2025-02-02,Google Gemini,17,US,today 12-m
+2025-02-09,Google Gemini,18,US,today 12-m
+2025-02-16,Google Gemini,16,US,today 12-m
+2025-02-23,Google Gemini,18,US,today 12-m
+2025-03-02,Google Gemini,16,US,today 12-m
+2025-03-09,Google Gemini,17,US,today 12-m
+2025-03-16,Google Gemini,18,US,today 12-m
+2025-03-23,Google Gemini,19,US,today 12-m
+2025-03-30,Google Gemini,21,US,today 12-m
+2025-04-06,Google Gemini,21,US,today 12-m
+2025-04-13,Google Gemini,21,US,today 12-m
+2025-04-20,Google Gemini,21,US,today 12-m
+2025-04-27,Google Gemini,21,US,today 12-m
+2025-05-04,Google Gemini,23,US,today 12-m
+2025-05-11,Google Gemini,22,US,today 12-m
+2025-05-18,Google Gemini,28,US,today 12-m
+2025-05-25,Google Gemini,26,US,today 12-m
+2025-06-01,Google Gemini,28,US,today 12-m
+2025-06-08,Google Gemini,30,US,today 12-m
+2025-06-15,Google Gemini,29,US,today 12-m
+2025-06-22,Google Gemini,29,US,today 12-m
+2025-06-29,Google Gemini,27,US,today 12-m
+2025-07-06,Google Gemini,28,US,today 12-m
+2025-07-13,Google Gemini,30,US,today 12-m
+2025-07-20,Google Gemini,31,US,today 12-m
+2025-07-27,Google Gemini,33,US,today 12-m
+2025-08-03,Google Gemini,31,US,today 12-m
+2025-08-10,Google Gemini,31,US,today 12-m
+2025-08-17,Google Gemini,30,US,today 12-m
+2025-08-24,Google Gemini,36,US,today 12-m
+2025-08-31,Google Gemini,38,US,today 12-m
+2025-09-07,Google Gemini,62,US,today 12-m
+2025-09-14,Google Gemini,88,US,today 12-m
+2025-09-21,Google Gemini,96,US,today 12-m
+2025-09-28,Google Gemini,100,US,today 12-m
+2025-10-05,Google Gemini,75,US,today 12-m
+2025-10-12,Google Gemini,62,US,today 12-m
+2025-10-19,Google Gemini,63,US,today 12-m
+2025-10-26,Google Gemini,64,US,today 12-m
+2025-11-02,Google Gemini,65,US,today 12-m
+2025-11-09,Google Gemini,68,US,today 12-m
+2025-11-16,Google Gemini,82,US,today 12-m
+2025-11-23,Google Gemini,66,US,today 12-m
+2025-11-30,Google Gemini,85,US,today 12-m
+2025-12-07,Google Gemini,87,US,today 12-m
+2025-12-14,Google Gemini,75,US,today 12-m
+2025-12-21,Google Gemini,55,US,today 12-m
+2025-12-28,Google Gemini,53,US,today 12-m
+2026-01-04,Google Gemini,70,US,today 12-m
+2026-01-11,Google Gemini,74,US,today 12-m
+2026-01-18,Google Gemini,62,US,today 12-m
+2026-01-25,Google Gemini,68,US,today 12-m
+2025-01-26,Claude AI,45,US,today 12-m
+2025-02-02,Claude AI,40,US,today 12-m
+2025-02-09,Claude AI,38,US,today 12-m
+2025-02-16,Claude AI,40,US,today 12-m
+2025-02-23,Claude AI,49,US,today 12-m
+2025-03-02,Claude AI,54,US,today 12-m
+2025-03-09,Claude AI,46,US,today 12-m
+2025-03-16,Claude AI,45,US,today 12-m
+2025-03-23,Claude AI,46,US,today 12-m
+2025-03-30,Claude AI,47,US,today 12-m
+2025-04-06,Claude AI,44,US,today 12-m
+2025-04-13,Claude AI,43,US,today 12-m
+2025-04-20,Claude AI,44,US,today 12-m
+2025-04-27,Claude AI,44,US,today 12-m
+2025-05-04,Claude AI,43,US,today 12-m
+2025-05-11,Claude AI,42,US,today 12-m
+2025-05-18,Claude AI,46,US,today 12-m
+2025-05-25,Claude AI,56,US,today 12-m
+2025-06-01,Claude AI,60,US,today 12-m
+2025-06-08,Claude AI,63,US,today 12-m
+2025-06-15,Claude AI,60,US,today 12-m
+2025-06-22,Claude AI,69,US,today 12-m
+2025-06-29,Claude AI,64,US,today 12-m
+2025-07-06,Claude AI,67,US,today 12-m
+2025-07-13,Claude AI,73,US,today 12-m
+2025-07-20,Claude AI,70,US,today 12-m
+2025-07-27,Claude AI,67,US,today 12-m
+2025-08-03,Claude AI,77,US,today 12-m
+2025-08-10,Claude AI,74,US,today 12-m
+2025-08-17,Claude AI,69,US,today 12-m
+2025-08-24,Claude AI,66,US,today 12-m
+2025-08-31,Claude AI,62,US,today 12-m
+2025-09-07,Claude AI,53,US,today 12-m
+2025-09-14,Claude AI,67,US,today 12-m
+2025-09-21,Claude AI,75,US,today 12-m
+2025-09-28,Claude AI,99,US,today 12-m
+2025-10-05,Claude AI,76,US,today 12-m
+2025-10-12,Claude AI,77,US,today 12-m
+2025-10-19,Claude AI,80,US,today 12-m
+2025-10-26,Claude AI,91,US,today 12-m
+2025-11-02,Claude AI,98,US,today 12-m
+2025-11-09,Claude AI,96,US,today 12-m
+2025-11-16,Claude AI,91,US,today 12-m
+2025-11-23,Claude AI,65,US,today 12-m
+2025-11-30,Claude AI,87,US,today 12-m
+2025-12-07,Claude AI,85,US,today 12-m
+2025-12-14,Claude AI,73,US,today 12-m
+2025-12-21,Claude AI,66,US,today 12-m
+2025-12-28,Claude AI,68,US,today 12-m
+2026-01-04,Claude AI,100,US,today 12-m
+2026-01-11,Claude AI,91,US,today 12-m
+2026-01-18,Claude AI,92,US,today 12-m
+2026-01-25,Claude AI,100,US,today 12-m
+2025-01-26,Cursor AI,40,US,today 12-m
+2025-02-02,Cursor AI,47,US,today 12-m
+2025-02-09,Cursor AI,55,US,today 12-m
+2025-02-16,Cursor AI,52,US,today 12-m
+2025-02-23,Cursor AI,64,US,today 12-m
+2025-03-02,Cursor AI,65,US,today 12-m
+2025-03-09,Cursor AI,69,US,today 12-m
+2025-03-16,Cursor AI,71,US,today 12-m
+2025-03-23,Cursor AI,60,US,today 12-m
+2025-03-30,Cursor AI,62,US,today 12-m
+2025-04-06,Cursor AI,58,US,today 12-m
+2025-04-13,Cursor AI,60,US,today 12-m
+2025-04-20,Cursor AI,54,US,today 12-m
+2025-04-27,Cursor AI,55,US,today 12-m
+2025-05-04,Cursor AI,62,US,today 12-m
+2025-05-11,Cursor AI,59,US,today 12-m
+2025-05-18,Cursor AI,61,US,today 12-m
+2025-05-25,Cursor AI,60,US,today 12-m
+2025-06-01,Cursor AI,77,US,today 12-m
+2025-06-08,Cursor AI,93,US,today 12-m
+2025-06-15,Cursor AI,88,US,today 12-m
+2025-06-22,Cursor AI,96,US,today 12-m
+2025-06-29,Cursor AI,91,US,today 12-m
+2025-07-06,Cursor AI,85,US,today 12-m
+2025-07-13,Cursor AI,93,US,today 12-m
+2025-07-20,Cursor AI,95,US,today 12-m
+2025-07-27,Cursor AI,100,US,today 12-m
+2025-08-03,Cursor AI,93,US,today 12-m
+2025-08-10,Cursor AI,79,US,today 12-m
+2025-08-17,Cursor AI,61,US,today 12-m
+2025-08-24,Cursor AI,58,US,today 12-m
+2025-08-31,Cursor AI,55,US,today 12-m
+2025-09-07,Cursor AI,43,US,today 12-m
+2025-09-14,Cursor AI,60,US,today 12-m
+2025-09-21,Cursor AI,69,US,today 12-m
+2025-09-28,Cursor AI,61,US,today 12-m
+2025-10-05,Cursor AI,66,US,today 12-m
+2025-10-12,Cursor AI,57,US,today 12-m
+2025-10-19,Cursor AI,56,US,today 12-m
+2025-10-26,Cursor AI,76,US,today 12-m
+2025-11-02,Cursor AI,76,US,today 12-m
+2025-11-09,Cursor AI,87,US,today 12-m
+2025-11-16,Cursor AI,74,US,today 12-m
+2025-11-23,Cursor AI,64,US,today 12-m
+2025-11-30,Cursor AI,74,US,today 12-m
+2025-12-07,Cursor AI,76,US,today 12-m
+2025-12-14,Cursor AI,78,US,today 12-m
+2025-12-21,Cursor AI,72,US,today 12-m
+2025-12-28,Cursor AI,75,US,today 12-m
+2026-01-04,Cursor AI,84,US,today 12-m
+2026-01-11,Cursor AI,61,US,today 12-m
+2026-01-18,Cursor AI,37,US,today 12-m
+2026-01-25,Cursor AI,37,US,today 12-m
+2025-01-26,Midjourney,14,US,today 12-m
+2025-02-02,Midjourney,14,US,today 12-m
+2025-02-09,Midjourney,14,US,today 12-m
+2025-02-16,Midjourney,15,US,today 12-m
+2025-02-23,Midjourney,14,US,today 12-m
+2025-03-02,Midjourney,14,US,today 12-m
+2025-03-09,Midjourney,13,US,today 12-m
+2025-03-16,Midjourney,13,US,today 12-m
+2025-03-23,Midjourney,14,US,today 12-m
+2025-03-30,Midjourney,15,US,today 12-m
+2025-04-06,Midjourney,14,US,today 12-m
+2025-04-13,Midjourney,13,US,today 12-m
+2025-04-20,Midjourney,11,US,today 12-m
+2025-04-27,Midjourney,12,US,today 12-m
+2025-05-04,Midjourney,13,US,today 12-m
+2025-05-11,Midjourney,12,US,today 12-m
+2025-05-18,Midjourney,12,US,today 12-m
+2025-05-25,Midjourney,12,US,today 12-m
+2025-06-01,Midjourney,12,US,today 12-m
+2025-06-08,Midjourney,18,US,today 12-m
+2025-06-15,Midjourney,19,US,today 12-m
+2025-06-22,Midjourney,51,US,today 12-m
+2025-06-29,Midjourney,18,US,today 12-m
+2025-07-06,Midjourney,100,US,today 12-m
+2025-07-13,Midjourney,56,US,today 12-m
+2025-07-20,Midjourney,61,US,today 12-m
+2025-07-27,Midjourney,31,US,today 12-m
+2025-08-03,Midjourney,17,US,today 12-m
+2025-08-10,Midjourney,16,US,today 12-m
+2025-08-17,Midjourney,15,US,today 12-m
+2025-08-24,Midjourney,14,US,today 12-m
+2025-08-31,Midjourney,14,US,today 12-m
+2025-09-07,Midjourney,12,US,today 12-m
+2025-09-14,Midjourney,13,US,today 12-m
+2025-09-21,Midjourney,14,US,today 12-m
+2025-09-28,Midjourney,12,US,today 12-m
+2025-10-05,Midjourney,11,US,today 12-m
+2025-10-12,Midjourney,12,US,today 12-m
+2025-10-19,Midjourney,11,US,today 12-m
+2025-10-26,Midjourney,12,US,today 12-m
+2025-11-02,Midjourney,15,US,today 12-m
+2025-11-09,Midjourney,15,US,today 12-m
+2025-11-16,Midjourney,15,US,today 12-m
+2025-11-23,Midjourney,15,US,today 12-m
+2025-11-30,Midjourney,15,US,today 12-m
+2025-12-07,Midjourney,14,US,today 12-m
+2025-12-14,Midjourney,14,US,today 12-m
+2025-12-21,Midjourney,13,US,today 12-m
+2025-12-28,Midjourney,13,US,today 12-m
+2026-01-04,Midjourney,15,US,today 12-m
+2026-01-11,Midjourney,12,US,today 12-m
+2026-01-18,Midjourney,9,US,today 12-m
+2026-01-25,Midjourney,10,US,today 12-m
+2025-01-26,DALL-E,35,US,today 12-m
+2025-02-02,DALL-E,31,US,today 12-m
+2025-02-09,DALL-E,31,US,today 12-m
+2025-02-16,DALL-E,36,US,today 12-m
+2025-02-23,DALL-E,35,US,today 12-m
+2025-03-02,DALL-E,35,US,today 12-m
+2025-03-09,DALL-E,31,US,today 12-m
+2025-03-16,DALL-E,28,US,today 12-m
+2025-03-23,DALL-E,38,US,today 12-m
+2025-03-30,DALL-E,31,US,today 12-m
+2025-04-06,DALL-E,32,US,today 12-m
+2025-04-13,DALL-E,26,US,today 12-m
+2025-04-20,DALL-E,27,US,today 12-m
+2025-04-27,DALL-E,26,US,today 12-m
+2025-05-04,DALL-E,27,US,today 12-m
+2025-05-11,DALL-E,20,US,today 12-m
+2025-05-18,DALL-E,24,US,today 12-m
+2025-05-25,DALL-E,23,US,today 12-m
+2025-06-01,DALL-E,23,US,today 12-m
+2025-06-08,DALL-E,32,US,today 12-m
+2025-06-15,DALL-E,29,US,today 12-m
+2025-06-22,DALL-E,28,US,today 12-m
+2025-06-29,DALL-E,30,US,today 12-m
+2025-07-06,DALL-E,32,US,today 12-m
+2025-07-13,DALL-E,59,US,today 12-m
+2025-07-20,DALL-E,91,US,today 12-m
+2025-07-27,DALL-E,100,US,today 12-m
+2025-08-03,DALL-E,44,US,today 12-m
+2025-08-10,DALL-E,42,US,today 12-m
+2025-08-17,DALL-E,25,US,today 12-m
+2025-08-24,DALL-E,25,US,today 12-m
+2025-08-31,DALL-E,23,US,today 12-m
+2025-09-07,DALL-E,19,US,today 12-m
+2025-09-14,DALL-E,26,US,today 12-m
+2025-09-21,DALL-E,27,US,today 12-m
+2025-09-28,DALL-E,27,US,today 12-m
+2025-10-05,DALL-E,26,US,today 12-m
+2025-10-12,DALL-E,23,US,today 12-m
+2025-10-19,DALL-E,23,US,today 12-m
+2025-10-26,DALL-E,31,US,today 12-m
+2025-11-02,DALL-E,36,US,today 12-m
+2025-11-09,DALL-E,29,US,today 12-m
+2025-11-16,DALL-E,37,US,today 12-m
+2025-11-23,DALL-E,33,US,today 12-m
+2025-11-30,DALL-E,41,US,today 12-m
+2025-12-07,DALL-E,39,US,today 12-m
+2025-12-14,DALL-E,38,US,today 12-m
+2025-12-21,DALL-E,35,US,today 12-m
+2025-12-28,DALL-E,34,US,today 12-m
+2026-01-04,DALL-E,35,US,today 12-m
+2026-01-11,DALL-E,31,US,today 12-m
+2026-01-18,DALL-E,21,US,today 12-m
+2026-01-25,DALL-E,22,US,today 12-m
+2025-01-26,Adobe Firefly,53,US,today 12-m
+2025-02-02,Adobe Firefly,56,US,today 12-m
+2025-02-09,Adobe Firefly,79,US,today 12-m
+2025-02-16,Adobe Firefly,78,US,today 12-m
+2025-02-23,Adobe Firefly,71,US,today 12-m
+2025-03-02,Adobe Firefly,67,US,today 12-m
+2025-03-09,Adobe Firefly,63,US,today 12-m
+2025-03-16,Adobe Firefly,63,US,today 12-m
+2025-03-23,Adobe Firefly,64,US,today 12-m
+2025-03-30,Adobe Firefly,62,US,today 12-m
+2025-04-06,Adobe Firefly,59,US,today 12-m
+2025-04-13,Adobe Firefly,57,US,today 12-m
+2025-04-20,Adobe Firefly,64,US,today 12-m
+2025-04-27,Adobe Firefly,60,US,today 12-m
+2025-05-04,Adobe Firefly,62,US,today 12-m
+2025-05-11,Adobe Firefly,54,US,today 12-m
+2025-05-18,Adobe Firefly,55,US,today 12-m
+2025-05-25,Adobe Firefly,51,US,today 12-m
+2025-06-01,Adobe Firefly,48,US,today 12-m
+2025-06-08,Adobe Firefly,52,US,today 12-m
+2025-06-15,Adobe Firefly,56,US,today 12-m
+2025-06-22,Adobe Firefly,53,US,today 12-m
+2025-06-29,Adobe Firefly,52,US,today 12-m
+2025-07-06,Adobe Firefly,55,US,today 12-m
+2025-07-13,Adobe Firefly,59,US,today 12-m
+2025-07-20,Adobe Firefly,72,US,today 12-m
+2025-07-27,Adobe Firefly,68,US,today 12-m
+2025-08-03,Adobe Firefly,60,US,today 12-m
+2025-08-10,Adobe Firefly,71,US,today 12-m
+2025-08-17,Adobe Firefly,63,US,today 12-m
+2025-08-24,Adobe Firefly,68,US,today 12-m
+2025-08-31,Adobe Firefly,59,US,today 12-m
+2025-09-07,Adobe Firefly,58,US,today 12-m
+2025-09-14,Adobe Firefly,69,US,today 12-m
+2025-09-21,Adobe Firefly,73,US,today 12-m
+2025-09-28,Adobe Firefly,66,US,today 12-m
+2025-10-05,Adobe Firefly,61,US,today 12-m
+2025-10-12,Adobe Firefly,54,US,today 12-m
+2025-10-19,Adobe Firefly,67,US,today 12-m
+2025-10-26,Adobe Firefly,92,US,today 12-m
+2025-11-02,Adobe Firefly,100,US,today 12-m
+2025-11-09,Adobe Firefly,90,US,today 12-m
+2025-11-16,Adobe Firefly,82,US,today 12-m
+2025-11-23,Adobe Firefly,88,US,today 12-m
+2025-11-30,Adobe Firefly,100,US,today 12-m
+2025-12-07,Adobe Firefly,84,US,today 12-m
+2025-12-14,Adobe Firefly,96,US,today 12-m
+2025-12-21,Adobe Firefly,67,US,today 12-m
+2025-12-28,Adobe Firefly,66,US,today 12-m
+2026-01-04,Adobe Firefly,70,US,today 12-m
+2026-01-11,Adobe Firefly,66,US,today 12-m
+2026-01-18,Adobe Firefly,49,US,today 12-m
+2026-01-25,Adobe Firefly,49,US,today 12-m
+2025-01-26,Stable Diffusion,59,US,today 12-m
+2025-02-02,Stable Diffusion,63,US,today 12-m
+2025-02-09,Stable Diffusion,60,US,today 12-m
+2025-02-16,Stable Diffusion,62,US,today 12-m
+2025-02-23,Stable Diffusion,58,US,today 12-m
+2025-03-02,Stable Diffusion,61,US,today 12-m
+2025-03-09,Stable Diffusion,57,US,today 12-m
+2025-03-16,Stable Diffusion,54,US,today 12-m
+2025-03-23,Stable Diffusion,55,US,today 12-m
+2025-03-30,Stable Diffusion,55,US,today 12-m
+2025-04-06,Stable Diffusion,53,US,today 12-m
+2025-04-13,Stable Diffusion,55,US,today 12-m
+2025-04-20,Stable Diffusion,47,US,today 12-m
+2025-04-27,Stable Diffusion,53,US,today 12-m
+2025-05-04,Stable Diffusion,48,US,today 12-m
+2025-05-11,Stable Diffusion,44,US,today 12-m
+2025-05-18,Stable Diffusion,50,US,today 12-m
+2025-05-25,Stable Diffusion,48,US,today 12-m
+2025-06-01,Stable Diffusion,54,US,today 12-m
+2025-06-08,Stable Diffusion,60,US,today 12-m
+2025-06-15,Stable Diffusion,60,US,today 12-m
+2025-06-22,Stable Diffusion,63,US,today 12-m
+2025-06-29,Stable Diffusion,51,US,today 12-m
+2025-07-06,Stable Diffusion,71,US,today 12-m
+2025-07-13,Stable Diffusion,73,US,today 12-m
+2025-07-20,Stable Diffusion,89,US,today 12-m
+2025-07-27,Stable Diffusion,96,US,today 12-m
+2025-08-03,Stable Diffusion,73,US,today 12-m
+2025-08-10,Stable Diffusion,61,US,today 12-m
+2025-08-17,Stable Diffusion,53,US,today 12-m
+2025-08-24,Stable Diffusion,47,US,today 12-m
+2025-08-31,Stable Diffusion,46,US,today 12-m
+2025-09-07,Stable Diffusion,38,US,today 12-m
+2025-09-14,Stable Diffusion,51,US,today 12-m
+2025-09-21,Stable Diffusion,54,US,today 12-m
+2025-09-28,Stable Diffusion,51,US,today 12-m
+2025-10-05,Stable Diffusion,45,US,today 12-m
+2025-10-12,Stable Diffusion,44,US,today 12-m
+2025-10-19,Stable Diffusion,47,US,today 12-m
+2025-10-26,Stable Diffusion,57,US,today 12-m
+2025-11-02,Stable Diffusion,76,US,today 12-m
+2025-11-09,Stable Diffusion,70,US,today 12-m
+2025-11-16,Stable Diffusion,67,US,today 12-m
+2025-11-23,Stable Diffusion,81,US,today 12-m
+2025-11-30,Stable Diffusion,95,US,today 12-m
+2025-12-07,Stable Diffusion,85,US,today 12-m
+2025-12-14,Stable Diffusion,81,US,today 12-m
+2025-12-21,Stable Diffusion,81,US,today 12-m
+2025-12-28,Stable Diffusion,100,US,today 12-m
+2026-01-04,Stable Diffusion,91,US,today 12-m
+2026-01-11,Stable Diffusion,60,US,today 12-m
+2026-01-18,Stable Diffusion,39,US,today 12-m
+2026-01-25,Stable Diffusion,42,US,today 12-m
+2025-01-26,Runway AI,29,US,today 12-m
+2025-02-02,Runway AI,27,US,today 12-m
+2025-02-09,Runway AI,24,US,today 12-m
+2025-02-16,Runway AI,30,US,today 12-m
+2025-02-23,Runway AI,28,US,today 12-m
+2025-03-02,Runway AI,29,US,today 12-m
+2025-03-09,Runway AI,31,US,today 12-m
+2025-03-16,Runway AI,25,US,today 12-m
+2025-03-23,Runway AI,26,US,today 12-m
+2025-03-30,Runway AI,35,US,today 12-m
+2025-04-06,Runway AI,30,US,today 12-m
+2025-04-13,Runway AI,31,US,today 12-m
+2025-04-20,Runway AI,28,US,today 12-m
+2025-04-27,Runway AI,31,US,today 12-m
+2025-05-04,Runway AI,31,US,today 12-m
+2025-05-11,Runway AI,28,US,today 12-m
+2025-05-18,Runway AI,29,US,today 12-m
+2025-05-25,Runway AI,36,US,today 12-m
+2025-06-01,Runway AI,42,US,today 12-m
+2025-06-08,Runway AI,45,US,today 12-m
+2025-06-15,Runway AI,44,US,today 12-m
+2025-06-22,Runway AI,52,US,today 12-m
+2025-06-29,Runway AI,42,US,today 12-m
+2025-07-06,Runway AI,40,US,today 12-m
+2025-07-13,Runway AI,51,US,today 12-m
+2025-07-20,Runway AI,62,US,today 12-m
+2025-07-27,Runway AI,72,US,today 12-m
+2025-08-03,Runway AI,59,US,today 12-m
+2025-08-10,Runway AI,53,US,today 12-m
+2025-08-17,Runway AI,40,US,today 12-m
+2025-08-24,Runway AI,37,US,today 12-m
+2025-08-31,Runway AI,35,US,today 12-m
+2025-09-07,Runway AI,31,US,today 12-m
+2025-09-14,Runway AI,35,US,today 12-m
+2025-09-21,Runway AI,39,US,today 12-m
+2025-09-28,Runway AI,34,US,today 12-m
+2025-10-05,Runway AI,35,US,today 12-m
+2025-10-12,Runway AI,33,US,today 12-m
+2025-10-19,Runway AI,31,US,today 12-m
+2025-10-26,Runway AI,47,US,today 12-m
+2025-11-02,Runway AI,64,US,today 12-m
+2025-11-09,Runway AI,58,US,today 12-m
+2025-11-16,Runway AI,63,US,today 12-m
+2025-11-23,Runway AI,70,US,today 12-m
+2025-11-30,Runway AI,100,US,today 12-m
+2025-12-07,Runway AI,91,US,today 12-m
+2025-12-14,Runway AI,70,US,today 12-m
+2025-12-21,Runway AI,75,US,today 12-m
+2025-12-28,Runway AI,74,US,today 12-m
+2026-01-04,Runway AI,70,US,today 12-m
+2026-01-11,Runway AI,54,US,today 12-m
+2026-01-18,Runway AI,30,US,today 12-m
+2026-01-25,Runway AI,32,US,today 12-m
+2025-01-26,OpenAI Sora,5,US,today 12-m
+2025-02-02,OpenAI Sora,5,US,today 12-m
+2025-02-09,OpenAI Sora,4,US,today 12-m
+2025-02-16,OpenAI Sora,4,US,today 12-m
+2025-02-23,OpenAI Sora,3,US,today 12-m
+2025-03-02,OpenAI Sora,4,US,today 12-m
+2025-03-09,OpenAI Sora,3,US,today 12-m
+2025-03-16,OpenAI Sora,4,US,today 12-m
+2025-03-23,OpenAI Sora,8,US,today 12-m
+2025-03-30,OpenAI Sora,7,US,today 12-m
+2025-04-06,OpenAI Sora,6,US,today 12-m
+2025-04-13,OpenAI Sora,4,US,today 12-m
+2025-04-20,OpenAI Sora,5,US,today 12-m
+2025-04-27,OpenAI Sora,4,US,today 12-m
+2025-05-04,OpenAI Sora,5,US,today 12-m
+2025-05-11,OpenAI Sora,3,US,today 12-m
+2025-05-18,OpenAI Sora,4,US,today 12-m
+2025-05-25,OpenAI Sora,7,US,today 12-m
+2025-06-01,OpenAI Sora,5,US,today 12-m
+2025-06-08,OpenAI Sora,5,US,today 12-m
+2025-06-15,OpenAI Sora,4,US,today 12-m
+2025-06-22,OpenAI Sora,6,US,today 12-m
+2025-06-29,OpenAI Sora,5,US,today 12-m
+2025-07-06,OpenAI Sora,7,US,today 12-m
+2025-07-13,OpenAI Sora,20,US,today 12-m
+2025-07-20,OpenAI Sora,40,US,today 12-m
+2025-07-27,OpenAI Sora,52,US,today 12-m
+2025-08-03,OpenAI Sora,18,US,today 12-m
+2025-08-10,OpenAI Sora,9,US,today 12-m
+2025-08-17,OpenAI Sora,3,US,today 12-m
+2025-08-24,OpenAI Sora,3,US,today 12-m
+2025-08-31,OpenAI Sora,5,US,today 12-m
+2025-09-07,OpenAI Sora,3,US,today 12-m
+2025-09-14,OpenAI Sora,5,US,today 12-m
+2025-09-21,OpenAI Sora,4,US,today 12-m
+2025-09-28,OpenAI Sora,73,US,today 12-m
+2025-10-05,OpenAI Sora,88,US,today 12-m
+2025-10-12,OpenAI Sora,44,US,today 12-m
+2025-10-19,OpenAI Sora,37,US,today 12-m
+2025-10-26,OpenAI Sora,64,US,today 12-m
+2025-11-02,OpenAI Sora,100,US,today 12-m
+2025-11-09,OpenAI Sora,67,US,today 12-m
+2025-11-16,OpenAI Sora,49,US,today 12-m
+2025-11-23,OpenAI Sora,54,US,today 12-m
+2025-11-30,OpenAI Sora,56,US,today 12-m
+2025-12-07,OpenAI Sora,83,US,today 12-m
+2025-12-14,OpenAI Sora,73,US,today 12-m
+2025-12-21,OpenAI Sora,61,US,today 12-m
+2025-12-28,OpenAI Sora,55,US,today 12-m
+2026-01-04,OpenAI Sora,47,US,today 12-m
+2026-01-11,OpenAI Sora,28,US,today 12-m
+2026-01-18,OpenAI Sora,9,US,today 12-m
+2026-01-25,OpenAI Sora,9,US,today 12-m
+2025-01-26,Google Veo,1,US,today 12-m
+2025-02-02,Google Veo,1,US,today 12-m
+2025-02-09,Google Veo,1,US,today 12-m
+2025-02-16,Google Veo,2,US,today 12-m
+2025-02-23,Google Veo,2,US,today 12-m
+2025-03-02,Google Veo,1,US,today 12-m
+2025-03-09,Google Veo,1,US,today 12-m
+2025-03-16,Google Veo,1,US,today 12-m
+2025-03-23,Google Veo,1,US,today 12-m
+2025-03-30,Google Veo,1,US,today 12-m
+2025-04-06,Google Veo,2,US,today 12-m
+2025-04-13,Google Veo,2,US,today 12-m
+2025-04-20,Google Veo,2,US,today 12-m
+2025-04-27,Google Veo,2,US,today 12-m
+2025-05-04,Google Veo,2,US,today 12-m
+2025-05-11,Google Veo,2,US,today 12-m
+2025-05-18,Google Veo,45,US,today 12-m
+2025-05-25,Google Veo,100,US,today 12-m
+2025-06-01,Google Veo,52,US,today 12-m
+2025-06-08,Google Veo,56,US,today 12-m
+2025-06-15,Google Veo,47,US,today 12-m
+2025-06-22,Google Veo,36,US,today 12-m
+2025-06-29,Google Veo,27,US,today 12-m
+2025-07-06,Google Veo,22,US,today 12-m
+2025-07-13,Google Veo,21,US,today 12-m
+2025-07-20,Google Veo,19,US,today 12-m
+2025-07-27,Google Veo,20,US,today 12-m
+2025-08-03,Google Veo,15,US,today 12-m
+2025-08-10,Google Veo,14,US,today 12-m
+2025-08-17,Google Veo,11,US,today 12-m
+2025-08-24,Google Veo,11,US,today 12-m
+2025-08-31,Google Veo,10,US,today 12-m
+2025-09-07,Google Veo,8,US,today 12-m
+2025-09-14,Google Veo,8,US,today 12-m
+2025-09-21,Google Veo,9,US,today 12-m
+2025-09-28,Google Veo,8,US,today 12-m
+2025-10-05,Google Veo,9,US,today 12-m
+2025-10-12,Google Veo,10,US,today 12-m
+2025-10-19,Google Veo,8,US,today 12-m
+2025-10-26,Google Veo,8,US,today 12-m
+2025-11-02,Google Veo,8,US,today 12-m
+2025-11-09,Google Veo,8,US,today 12-m
+2025-11-16,Google Veo,8,US,today 12-m
+2025-11-23,Google Veo,8,US,today 12-m
+2025-11-30,Google Veo,8,US,today 12-m
+2025-12-07,Google Veo,7,US,today 12-m
+2025-12-14,Google Veo,8,US,today 12-m
+2025-12-21,Google Veo,8,US,today 12-m
+2025-12-28,Google Veo,8,US,today 12-m
+2026-01-04,Google Veo,8,US,today 12-m
+2026-01-11,Google Veo,6,US,today 12-m
+2026-01-18,Google Veo,4,US,today 12-m
+2026-01-25,Google Veo,4,US,today 12-m
+2025-01-26,Kling AI,56,US,today 12-m
+2025-02-02,Kling AI,51,US,today 12-m
+2025-02-09,Kling AI,41,US,today 12-m
+2025-02-16,Kling AI,48,US,today 12-m
+2025-02-23,Kling AI,39,US,today 12-m
+2025-03-02,Kling AI,43,US,today 12-m
+2025-03-09,Kling AI,36,US,today 12-m
+2025-03-16,Kling AI,41,US,today 12-m
+2025-03-23,Kling AI,46,US,today 12-m
+2025-03-30,Kling AI,52,US,today 12-m
+2025-04-06,Kling AI,54,US,today 12-m
+2025-04-13,Kling AI,62,US,today 12-m
+2025-04-20,Kling AI,51,US,today 12-m
+2025-04-27,Kling AI,48,US,today 12-m
+2025-05-04,Kling AI,47,US,today 12-m
+2025-05-11,Kling AI,49,US,today 12-m
+2025-05-18,Kling AI,49,US,today 12-m
+2025-05-25,Kling AI,57,US,today 12-m
+2025-06-01,Kling AI,66,US,today 12-m
+2025-06-08,Kling AI,74,US,today 12-m
+2025-06-15,Kling AI,65,US,today 12-m
+2025-06-22,Kling AI,69,US,today 12-m
+2025-06-29,Kling AI,63,US,today 12-m
+2025-07-06,Kling AI,57,US,today 12-m
+2025-07-13,Kling AI,59,US,today 12-m
+2025-07-20,Kling AI,71,US,today 12-m
+2025-07-27,Kling AI,70,US,today 12-m
+2025-08-03,Kling AI,51,US,today 12-m
+2025-08-10,Kling AI,49,US,today 12-m
+2025-08-17,Kling AI,41,US,today 12-m
+2025-08-24,Kling AI,39,US,today 12-m
+2025-08-31,Kling AI,44,US,today 12-m
+2025-09-07,Kling AI,39,US,today 12-m
+2025-09-14,Kling AI,41,US,today 12-m
+2025-09-21,Kling AI,39,US,today 12-m
+2025-09-28,Kling AI,49,US,today 12-m
+2025-10-05,Kling AI,46,US,today 12-m
+2025-10-12,Kling AI,46,US,today 12-m
+2025-10-19,Kling AI,40,US,today 12-m
+2025-10-26,Kling AI,37,US,today 12-m
+2025-11-02,Kling AI,43,US,today 12-m
+2025-11-09,Kling AI,44,US,today 12-m
+2025-11-16,Kling AI,48,US,today 12-m
+2025-11-23,Kling AI,49,US,today 12-m
+2025-11-30,Kling AI,66,US,today 12-m
+2025-12-07,Kling AI,56,US,today 12-m
+2025-12-14,Kling AI,71,US,today 12-m
+2025-12-21,Kling AI,78,US,today 12-m
+2025-12-28,Kling AI,90,US,today 12-m
+2026-01-04,Kling AI,100,US,today 12-m
+2026-01-11,Kling AI,92,US,today 12-m
+2026-01-18,Kling AI,64,US,today 12-m
+2026-01-25,Kling AI,57,US,today 12-m
