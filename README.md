@@ -1,3 +1,6 @@
+## Live Dashboard
+Tableau Public: https://public.tableau.com/views/AIDemandAdoptionIntelligenceUS/Dashboard1DemandCommandCenter?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # AI Demand & Adoption Intelligence (US)
 
 A market-intelligence analytics project that compares AI tools across categories (Image, Video, Coding) using real datasets to measure:
